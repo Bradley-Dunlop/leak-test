@@ -1,0 +1,8 @@
+"AadClientId": "XXXX-7873-47b4-a42a-5d1d9d760232",
+  "AadSecret": "fDs8Q~XXXX",
+  "AadTenantDomain": "XXXX.bradnet.works",
+  "AadTenantId": "96f62525-XXX-XXXX-81b6-d4e1309c649e",
+
+
+
+
